@@ -1,2 +1,2 @@
-# Tugas8-kelompok-24-
-API = https://vaksincovid19-api.vercel.app/api/vaksin
+# Tugas8-kelompok-41-
+API = https://apicovid19indonesia-v2.vercel.app/api/indonesia
